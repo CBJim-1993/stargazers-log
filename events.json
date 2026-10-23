@@ -1,0 +1,20 @@
+[
+  {
+    "name": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "url": "https://github.com/octocat/Hello-World",
+    "starred_at": "2025-01-15T10:30:00Z"
+  },
+  {
+    "name": "github/docs",
+    "description": "The open-source documentation for GitHub.",
+    "url": "https://github.com/github/docs",
+    "starred_at": "2025-02-03T14:20:00Z"
+  },
+  {
+    "name": "vercel/next.js",
+    "description": "The React framework for the web.",
+    "url": "https://github.com/vercel/next.js",
+    "starred_at": "2025-03-22T08:45:00Z"
+  }
+]
